@@ -1,0 +1,15 @@
+/* :host div.container_card {
+    display: flex;
+    
+  }
+
+  :host div.card {
+    height: auto;
+    width: 200px;
+    background: deeppink;
+  }
+
+  :host img {
+    height: 100px;
+    
+  } */
